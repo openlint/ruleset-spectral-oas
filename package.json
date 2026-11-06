@@ -1,5 +1,5 @@
 {
-  "name": "@openlint/openlint-ruleset-spectral-oas",
+  "name": "@openlint/ruleset-spectral-oas",
   "version": "0.1.0",
   "description": "Legacy Spectral OpenAPI ruleset for OpenLint",
   "homepage": "https://github.com/openlint/ruleset-spectral-oas",

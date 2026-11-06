@@ -8,5 +8,5 @@ The OpenLint CLI retains the `spectral:oas` spelling for compatibility. To
 extend the package directly, use:
 
 ```yaml
-extends: "@openlint/openlint-ruleset-spectral-oas"
+extends: "@openlint/ruleset-spectral-oas"
 ```
